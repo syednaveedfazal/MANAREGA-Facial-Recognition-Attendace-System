@@ -4,6 +4,10 @@
 
 ---
 
+<img width="1584" height="849" alt="image" src="https://github.com/user-attachments/assets/7d28d5d0-9b0f-44de-87f6-6388a6e53670" />
+
+<img width="1607" height="931" alt="Screenshot 2025-11-29 094816" src="https://github.com/user-attachments/assets/3ee48308-ec04-49a0-9f2b-e4e3030f780d" />
+
 ## 🧠 Key Features
 
 - **Face Recognition**: Instantly identify gig workers using their face.
