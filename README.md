@@ -62,7 +62,7 @@ Here’s how the system works:
 - NumPy  
 - Tkinter (for GUI)  
 - (Optional) pandas — for attendance logs  
-- [Any other libraries you use in your repo]
+
 
 You can install dependencies via:
 
